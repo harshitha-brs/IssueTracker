@@ -1,0 +1,57 @@
+/* src/Main.css */
+.container {
+    max-width: 960px;
+    height: 465px;
+    margin: auto;
+    text-align: start;
+  }
+  
+  .form-text {
+    font-size: 0.875em;
+  }
+  
+  .text-danger {
+    color: red;
+  }
+  
+  button{
+    background-color: rgb(68, 126, 233);
+  }
+  .alert {
+    margin: 20px 0;
+  }
+  
+  /* Add the following CSS to Main.css */
+.card {
+  border: 1px solid #242323;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  padding: 15px;
+  height: 350px;
+  width: 450px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+}
+
+.card-title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.card-title .btn {
+  margin-left: 10px;
+}
+
+.card-text {
+  margin-bottom: 10px;
+}
+
+#descLength.text-danger {
+  color: red;
+}

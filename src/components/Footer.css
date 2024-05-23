@@ -1,0 +1,30 @@
+/* src/Footer.css */
+.footer-img {
+    width: 140px;
+    height: auto;
+    padding-left: 1050px;
+  }
+  
+  /* Other existing styles */
+  .footer {
+    padding: 10px 0;
+    background-color: #f8f9fa;
+    height: 50px;
+  }
+  
+  .footer-dark {
+    background-color: #343a40;
+    color: #ffffff;
+  }
+  
+  .footer-dark .theme-switch {
+    border: 1px solid #ffffff;
+    margin-right: 5px;
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+  }
+  .footer-div{
+    padding-top: 20px;
+  }
+  
